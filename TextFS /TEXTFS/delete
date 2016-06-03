@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if ! [ -e $1 ]; then
+	echo "Please enter correct name as file to be deleted doesn't exist"
+else
+	rm $1
+fi
+
+ls

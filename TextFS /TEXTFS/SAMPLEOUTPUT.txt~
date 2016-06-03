@@ -1,0 +1,342 @@
+biggiep@thenotoriousbiggiep:~/TEXTFS$ list
+total 64
+drwxrwxr-x  2 biggiep biggiep 4096 Jun  3 21:26 .
+drwxr-xr-x 38 biggiep biggiep 4096 Jun  3 21:11 ..
+-rwxrwxr-x  1 biggiep biggiep  280 Jun  3 21:02 copy
+-rwxrwxr-x  1 biggiep biggiep  116 Jun  3 20:55 create
+-rwxrwxr-x  1 biggiep biggiep  122 Jun  3 21:02 delete
+-rwxrwxr-x  1 biggiep biggiep  236 Jun  3 21:09 echodata
+-rw-rw-r--  1 biggiep biggiep   25 Jun  3 20:59 file1.txt~
+-rw-rw-r--  1 biggiep biggiep   22 Jun  3 21:00 file2.txt~
+-rw-rw-r--  1 biggiep biggiep   39 Jun  3 21:00 file3.txt~
+-rw-rw-r--  1 biggiep biggiep   51 Jun  3 21:00 file4.txt~
+-rw-rw-r--  1 biggiep biggiep   64 Jun  3 21:10 file5.txt~
+-rwxrwxr-x  1 biggiep biggiep  112 Jun  3 20:55 list
+-rw-rw-r--  1 biggiep biggiep 7664 Jun  3 21:12 listfilesop.txt
+-rw-rw-r--  1 biggiep biggiep 6104 Jun  3 21:26 logfile.txt
+---------------------------------------------------------
+biggiep@thenotoriousbiggiep:~/TEXTFS$ create file1.txt
+biggiep@thenotoriousbiggiep:~/TEXTFS$ create file2.txt
+biggiep@thenotoriousbiggiep:~/TEXTFS$ create file3.txt
+
+(gedit:3378): Gtk-WARNING **: GtkScrolledWindow 0xd62880 is mapped but visible child GtkScrollbar 0xd6aa70 is not mapped
+
+(gedit:3378): Gtk-WARNING **: GtkScrolledWindow 0xd62880 is mapped but visible child GtkScrollbar 0xd6ac70 is not mapped
+
+(gedit:3378): Gtk-WARNING **: GtkScrolledWindow 0xd62880 is mapped but visible child GtkScrollbar 0xd6aa70 is not mapped
+
+(gedit:3378): Gtk-WARNING **: GtkScrolledWindow 0xd62880 is mapped but visible child GtkScrollbar 0xd6ac70 is not mapped
+biggiep@thenotoriousbiggiep:~/TEXTFS$ create file4.txt
+
+(gedit:3390): Gtk-WARNING **: GtkScrolledWindow 0x14f7880 is mapped but visible child GtkScrollbar 0x1500ab0 is not mapped
+
+(gedit:3390): Gtk-WARNING **: GtkScrolledWindow 0x14f7880 is mapped but visible child GtkScrollbar 0x1500cb0 is not mapped
+
+(gedit:3390): Gtk-WARNING **: GtkScrolledWindow 0x14f7880 is mapped but visible child GtkScrollbar 0x1500ab0 is not mapped
+
+(gedit:3390): Gtk-WARNING **: GtkScrolledWindow 0x14f7880 is mapped but visible child GtkScrollbar 0x1500cb0 is not mapped
+
+(gedit:3390): Gtk-WARNING **: GtkScrolledWindow 0x14f7880 is mapped but visible child GtkScrollbar 0x1500cb0 is not mapped
+
+(gedit:3390): Gtk-WARNING **: GtkScrolledWindow 0x14f7880 is mapped but visible child GtkScrollbar 0x1500ab0 is not mapped
+
+(gedit:3390): Gtk-WARNING **: GtkScrolledWindow 0x14f7880 is mapped but visible child GtkScrollbar 0x1500cb0 is not mapped
+
+(gedit:3390): Gtk-WARNING **: GtkScrolledWindow 0x14f7880 is mapped but visible child GtkScrollbar 0x1500ab0 is not mapped
+biggiep@thenotoriousbiggiep:~/TEXTFS$ create file4.txt
+File already exists!
+biggiep@thenotoriousbiggiep:~/TEXTFS$ create file5.txt
+biggiep@thenotoriousbiggiep:~/TEXTFS$ list
+total 68
+drwxrwxr-x  2 biggiep biggiep 4096 Jun  3 21:28 .
+drwxr-xr-x 38 biggiep biggiep 4096 Jun  3 21:11 ..
+-rwxrwxr-x  1 biggiep biggiep  280 Jun  3 21:02 copy
+-rwxrwxr-x  1 biggiep biggiep  116 Jun  3 20:55 create
+-rwxrwxr-x  1 biggiep biggiep  122 Jun  3 21:02 delete
+-rwxrwxr-x  1 biggiep biggiep  236 Jun  3 21:09 echodata
+-rw-rw-r--  1 biggiep biggiep   98 Jun  3 21:27 file1.txt
+-rw-rw-r--  1 biggiep biggiep    0 Jun  3 21:27 file1.txt~
+-rw-rw-r--  1 biggiep biggiep   96 Jun  3 21:27 file2.txt
+-rw-rw-r--  1 biggiep biggiep    0 Jun  3 21:27 file2.txt~
+-rw-rw-r--  1 biggiep biggiep  116 Jun  3 21:28 file3.txt
+-rw-rw-r--  1 biggiep biggiep    0 Jun  3 21:27 file3.txt~
+-rw-rw-r--  1 biggiep biggiep   58 Jun  3 21:28 file4.txt
+-rw-rw-r--  1 biggiep biggiep    0 Jun  3 21:28 file4.txt~
+-rw-rw-r--  1 biggiep biggiep  137 Jun  3 21:28 file5.txt
+-rw-rw-r--  1 biggiep biggiep    0 Jun  3 21:28 file5.txt~
+-rwxrwxr-x  1 biggiep biggiep  112 Jun  3 20:55 list
+-rw-rw-r--  1 biggiep biggiep 8466 Jun  3 21:27 listfilesop.txt
+-rw-rw-r--  1 biggiep biggiep 7874 Jun  3 21:28 logfile.txt
+---------------------------------------------------------
+biggiep@thenotoriousbiggiep:~/TEXTFS$ echodata file1.txt
+rfvwrgtwr
+rcthgeryhe5y
+cyheryhceyx
+crwynxeyncetxn
+cenyetunmrcyimthcn
+xtgbetnycryum
+crhnrcyjmtvku,
+
+--------------------------------------------------------
+biggiep@thenotoriousbiggiep:~/TEXTFS$ copy /home/biggiep/SAMPLEFILES/Fib.py copyfile1.txt
+biggiep@thenotoriousbiggiep:~/TEXTFS$ list
+total 76
+drwxrwxr-x  2 biggiep biggiep 4096 Jun  3 21:29 .
+drwxr-xr-x 38 biggiep biggiep 4096 Jun  3 21:11 ..
+-rwxrwxr-x  1 biggiep biggiep  280 Jun  3 21:02 copy
+-rw-rw-r--  1 biggiep biggiep  216 Jun  3 21:29 copyfile1.txt
+-rwxrwxr-x  1 biggiep biggiep  116 Jun  3 20:55 create
+-rwxrwxr-x  1 biggiep biggiep  122 Jun  3 21:02 delete
+-rwxrwxr-x  1 biggiep biggiep  236 Jun  3 21:09 echodata
+-rw-rw-r--  1 biggiep biggiep   98 Jun  3 21:27 file1.txt
+-rw-rw-r--  1 biggiep biggiep    0 Jun  3 21:27 file1.txt~
+-rw-rw-r--  1 biggiep biggiep   96 Jun  3 21:27 file2.txt
+-rw-rw-r--  1 biggiep biggiep    0 Jun  3 21:27 file2.txt~
+-rw-rw-r--  1 biggiep biggiep  116 Jun  3 21:28 file3.txt
+-rw-rw-r--  1 biggiep biggiep    0 Jun  3 21:27 file3.txt~
+-rw-rw-r--  1 biggiep biggiep   58 Jun  3 21:28 file4.txt
+-rw-rw-r--  1 biggiep biggiep    0 Jun  3 21:28 file4.txt~
+-rw-rw-r--  1 biggiep biggiep  137 Jun  3 21:28 file5.txt
+-rw-rw-r--  1 biggiep biggiep    0 Jun  3 21:28 file5.txt~
+-rwxrwxr-x  1 biggiep biggiep  112 Jun  3 20:55 list
+-rw-rw-r--  1 biggiep biggiep 9558 Jun  3 21:28 listfilesop.txt
+-rw-rw-r--  1 biggiep biggiep 8963 Jun  3 21:29 logfile.txt
+---------------------------------------------------------
+biggiep@thenotoriousbiggiep:~/TEXTFS$ echodata copyfile1.txt
+import os
+import sys
+import time
+
+def fib(n):
+	a,b=1,1
+	for i in range(n-1):
+		a,b = b,a+b
+	return a
+
+if len(sys.argv) > 1:
+	start = time.time()
+	fib(int(sys.argv[1]))
+	print "TIME = %s SECONDS" % (time.time()-start)
+--------------------------------------------------------
+biggiep@thenotoriousbiggiep:~/TEXTFS$ echodata edd.txt
+Please enter correct name as file whose contents are to be displayed doesn't exist
+biggiep@thenotoriousbiggiep:~/TEXTFS$ delete fre.txt
+Please enter correct name as file to be deleted doesn't exist
+copy	       create  echodata   file1.txt~  file2.txt~  file3.txt~  file4.txt~  file5.txt~  listfilesop.txt
+copyfile1.txt  delete  file1.txt  file2.txt   file3.txt   file4.txt   file5.txt   list	      logfile.txt
+biggiep@thenotoriousbiggiep:~/TEXTFS$ delete copyfile1.txt
+copy	delete	  file1.txt   file2.txt   file3.txt   file4.txt   file5.txt   list	       logfile.txt
+create	echodata  file1.txt~  file2.txt~  file3.txt~  file4.txt~  file5.txt~  listfilesop.txt
+biggiep@thenotoriousbiggiep:~/TEXTFS$ echodata logfile.txt
+  File: ‘file1.txt’
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 801h/2049d	Inode: 13369668    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 20:58:56.615323840 +0530
+Modify: 2016-06-03 20:58:56.615323840 +0530
+Change: 2016-06-03 20:58:56.615323840 +0530
+ Birth: -
+  File: ‘file2.txt’
+  Size: 22        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369691    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:00:09.647324097 +0530
+Modify: 2016-06-03 21:00:09.647324097 +0530
+Change: 2016-06-03 21:00:09.875324098 +0530
+ Birth: -
+  File: ‘file3.txt’
+  Size: 39        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369694    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:00:24.539324149 +0530
+Modify: 2016-06-03 21:00:24.555324149 +0530
+Change: 2016-06-03 21:00:24.751324150 +0530
+ Birth: -
+  File: ‘file4.txt’
+  Size: 51        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369696    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:00:42.223324212 +0530
+Modify: 2016-06-03 21:00:42.223324212 +0530
+Change: 2016-06-03 21:00:42.447324212 +0530
+ Birth: -
+  File: ‘/home/biggiep/Dups.py’
+  Size: 2680      	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 12869275    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 10:51:50.944685277 +0530
+Modify: 2016-06-01 09:41:17.482194252 +0530
+Change: 2016-06-01 09:41:17.482194252 +0530
+ Birth: -
+  File: ‘copyfile1.txt’
+  Size: 2680      	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369697    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:01:48.319324444 +0530
+Modify: 2016-06-03 21:01:48.319324444 +0530
+Change: 2016-06-03 21:01:48.319324444 +0530
+ Birth: -
+  File: ‘/home/biggiep/Dups.py’
+  Size: 2680      	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 12869275    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 10:51:50.944685277 +0530
+Modify: 2016-06-01 09:41:17.482194252 +0530
+Change: 2016-06-01 09:41:17.482194252 +0530
+ Birth: -
+  File: ‘copyfile1.txt’
+  Size: 2680      	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369697    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:03:56.219324895 +0530
+Modify: 2016-06-03 21:03:56.219324895 +0530
+Change: 2016-06-03 21:03:56.219324895 +0530
+ Birth: -
+  File: ‘file1.txt’
+  Size: 25        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369688    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:05:29.247325222 +0530
+Modify: 2016-06-03 20:59:15.179323905 +0530
+Change: 2016-06-03 20:59:15.299323905 +0530
+ Birth: -
+  File: ‘copyfile1.txt’
+  Size: 2680      	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369697    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:05:29.243325222 +0530
+Modify: 2016-06-03 21:03:56.219324895 +0530
+Change: 2016-06-03 21:03:56.219324895 +0530
+ Birth: -
+  File: ‘copyfile1.txt’
+  Size: 2680      	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369697    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:05:29.243325222 +0530
+Modify: 2016-06-03 21:03:56.219324895 +0530
+Change: 2016-06-03 21:03:56.219324895 +0530
+ Birth: -
+  File: ‘copyfile1.txt’
+  Size: 2680      	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369697    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:05:29.243325222 +0530
+Modify: 2016-06-03 21:03:56.219324895 +0530
+Change: 2016-06-03 21:03:56.219324895 +0530
+ Birth: -
+  File: ‘file5.txt’
+  Size: 64        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369703    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:10:20.499326248 +0530
+Modify: 2016-06-03 21:10:19.799326246 +0530
+Change: 2016-06-03 21:10:20.135326247 +0530
+ Birth: -
+  File: ‘/home/biggiep/SAMPLEFILES/calc.lisp’
+  Size: 868       	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 12859211    Links: 1
+Access: (0600/-rw-------)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:11:43.563326541 +0530
+Modify: 2016-04-20 06:16:55.863121000 +0530
+Change: 2016-06-03 21:11:43.399326540 +0530
+ Birth: -
+  File: ‘copyfile2.txt’
+  Size: 868       	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369724    Links: 1
+Access: (0600/-rw-------)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:12:20.731326672 +0530
+Modify: 2016-06-03 21:12:20.731326672 +0530
+Change: 2016-06-03 21:12:20.731326672 +0530
+ Birth: -
+  File: ‘copyfile2.txt’
+  Size: 868       	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369724    Links: 1
+Access: (0600/-rw-------)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:12:48.943326771 +0530
+Modify: 2016-06-03 21:12:20.731326672 +0530
+Change: 2016-06-03 21:12:20.731326672 +0530
+ Birth: -
+  File: ‘logfile.txt’
+  Size: 5748      	Blocks: 16         IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369669    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:26:28.827329659 +0530
+Modify: 2016-06-03 21:12:48.947326771 +0530
+Change: 2016-06-03 21:12:48.947326771 +0530
+ Birth: -
+  File: ‘file1.txt’
+  Size: 98        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369691    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:27:29.611329873 +0530
+Modify: 2016-06-03 21:27:28.587329869 +0530
+Change: 2016-06-03 21:27:28.671329869 +0530
+ Birth: -
+  File: ‘file2.txt’
+  Size: 96        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369694    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:27:45.423329928 +0530
+Modify: 2016-06-03 21:27:44.399329925 +0530
+Change: 2016-06-03 21:27:44.499329925 +0530
+ Birth: -
+  File: ‘file3.txt’
+  Size: 116       	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369696    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:28:02.539329989 +0530
+Modify: 2016-06-03 21:28:01.523329985 +0530
+Change: 2016-06-03 21:28:01.647329986 +0530
+ Birth: -
+  File: ‘file4.txt’
+  Size: 58        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369703    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:28:16.799330039 +0530
+Modify: 2016-06-03 21:28:15.783330035 +0530
+Change: 2016-06-03 21:28:15.899330036 +0530
+ Birth: -
+  File: ‘file5.txt’
+  Size: 137       	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369856    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:28:37.355330111 +0530
+Modify: 2016-06-03 21:28:36.343330108 +0530
+Change: 2016-06-03 21:28:36.403330108 +0530
+ Birth: -
+  File: ‘file1.txt’
+  Size: 98        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369691    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:27:29.611329873 +0530
+Modify: 2016-06-03 21:27:28.587329869 +0530
+Change: 2016-06-03 21:27:28.671329869 +0530
+ Birth: -
+  File: ‘/home/biggiep/SAMPLEFILES/Fib.py’
+  Size: 216       	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 12861238    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:11:43.571326541 +0530
+Modify: 2016-04-20 10:07:28.731169000 +0530
+Change: 2016-06-03 21:11:43.423326540 +0530
+ Birth: -
+  File: ‘copyfile1.txt’
+  Size: 216       	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369702    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:29:32.315330305 +0530
+Modify: 2016-06-03 21:29:32.315330305 +0530
+Change: 2016-06-03 21:29:32.315330305 +0530
+ Birth: -
+  File: ‘copyfile1.txt’
+  Size: 216       	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369702    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:29:33.447330309 +0530
+Modify: 2016-06-03 21:29:32.315330305 +0530
+Change: 2016-06-03 21:29:32.315330305 +0530
+ Birth: -
+
+--------------------------------------------------------
+biggiep@thenotoriousbiggiep:~/TEXTFS$ 
+

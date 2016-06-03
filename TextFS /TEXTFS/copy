@@ -1,0 +1,13 @@
+#!/bin/bash
+
+if ! [ -e $1 ]; then
+	echo "Please enter correct name for source file as it doesn't exist"
+else
+	if [ -e $2 ]; then
+		echo "Please enter correct name for destination file as it already exists"
+	else
+		cp $1 $2
+		stat $1 >> logfile.txt
+		stat $2 >> logfile.txt
+	fi
+fi

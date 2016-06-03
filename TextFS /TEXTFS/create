@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [ -e $1 ]; then
+  echo "File already exists!"
+else
+  touch $1
+  gedit $1
+  stat $1 >> logfile.txt
+fi

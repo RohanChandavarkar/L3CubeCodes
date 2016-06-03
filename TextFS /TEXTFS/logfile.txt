@@ -1,0 +1,216 @@
+  File: ‘file1.txt’
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 801h/2049d	Inode: 13369668    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 20:58:56.615323840 +0530
+Modify: 2016-06-03 20:58:56.615323840 +0530
+Change: 2016-06-03 20:58:56.615323840 +0530
+ Birth: -
+  File: ‘file2.txt’
+  Size: 22        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369691    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:00:09.647324097 +0530
+Modify: 2016-06-03 21:00:09.647324097 +0530
+Change: 2016-06-03 21:00:09.875324098 +0530
+ Birth: -
+  File: ‘file3.txt’
+  Size: 39        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369694    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:00:24.539324149 +0530
+Modify: 2016-06-03 21:00:24.555324149 +0530
+Change: 2016-06-03 21:00:24.751324150 +0530
+ Birth: -
+  File: ‘file4.txt’
+  Size: 51        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369696    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:00:42.223324212 +0530
+Modify: 2016-06-03 21:00:42.223324212 +0530
+Change: 2016-06-03 21:00:42.447324212 +0530
+ Birth: -
+  File: ‘/home/biggiep/Dups.py’
+  Size: 2680      	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 12869275    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 10:51:50.944685277 +0530
+Modify: 2016-06-01 09:41:17.482194252 +0530
+Change: 2016-06-01 09:41:17.482194252 +0530
+ Birth: -
+  File: ‘copyfile1.txt’
+  Size: 2680      	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369697    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:01:48.319324444 +0530
+Modify: 2016-06-03 21:01:48.319324444 +0530
+Change: 2016-06-03 21:01:48.319324444 +0530
+ Birth: -
+  File: ‘/home/biggiep/Dups.py’
+  Size: 2680      	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 12869275    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 10:51:50.944685277 +0530
+Modify: 2016-06-01 09:41:17.482194252 +0530
+Change: 2016-06-01 09:41:17.482194252 +0530
+ Birth: -
+  File: ‘copyfile1.txt’
+  Size: 2680      	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369697    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:03:56.219324895 +0530
+Modify: 2016-06-03 21:03:56.219324895 +0530
+Change: 2016-06-03 21:03:56.219324895 +0530
+ Birth: -
+  File: ‘file1.txt’
+  Size: 25        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369688    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:05:29.247325222 +0530
+Modify: 2016-06-03 20:59:15.179323905 +0530
+Change: 2016-06-03 20:59:15.299323905 +0530
+ Birth: -
+  File: ‘copyfile1.txt’
+  Size: 2680      	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369697    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:05:29.243325222 +0530
+Modify: 2016-06-03 21:03:56.219324895 +0530
+Change: 2016-06-03 21:03:56.219324895 +0530
+ Birth: -
+  File: ‘copyfile1.txt’
+  Size: 2680      	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369697    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:05:29.243325222 +0530
+Modify: 2016-06-03 21:03:56.219324895 +0530
+Change: 2016-06-03 21:03:56.219324895 +0530
+ Birth: -
+  File: ‘copyfile1.txt’
+  Size: 2680      	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369697    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:05:29.243325222 +0530
+Modify: 2016-06-03 21:03:56.219324895 +0530
+Change: 2016-06-03 21:03:56.219324895 +0530
+ Birth: -
+  File: ‘file5.txt’
+  Size: 64        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369703    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:10:20.499326248 +0530
+Modify: 2016-06-03 21:10:19.799326246 +0530
+Change: 2016-06-03 21:10:20.135326247 +0530
+ Birth: -
+  File: ‘/home/biggiep/SAMPLEFILES/calc.lisp’
+  Size: 868       	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 12859211    Links: 1
+Access: (0600/-rw-------)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:11:43.563326541 +0530
+Modify: 2016-04-20 06:16:55.863121000 +0530
+Change: 2016-06-03 21:11:43.399326540 +0530
+ Birth: -
+  File: ‘copyfile2.txt’
+  Size: 868       	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369724    Links: 1
+Access: (0600/-rw-------)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:12:20.731326672 +0530
+Modify: 2016-06-03 21:12:20.731326672 +0530
+Change: 2016-06-03 21:12:20.731326672 +0530
+ Birth: -
+  File: ‘copyfile2.txt’
+  Size: 868       	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369724    Links: 1
+Access: (0600/-rw-------)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:12:48.943326771 +0530
+Modify: 2016-06-03 21:12:20.731326672 +0530
+Change: 2016-06-03 21:12:20.731326672 +0530
+ Birth: -
+  File: ‘logfile.txt’
+  Size: 5748      	Blocks: 16         IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369669    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:26:28.827329659 +0530
+Modify: 2016-06-03 21:12:48.947326771 +0530
+Change: 2016-06-03 21:12:48.947326771 +0530
+ Birth: -
+  File: ‘file1.txt’
+  Size: 98        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369691    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:27:29.611329873 +0530
+Modify: 2016-06-03 21:27:28.587329869 +0530
+Change: 2016-06-03 21:27:28.671329869 +0530
+ Birth: -
+  File: ‘file2.txt’
+  Size: 96        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369694    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:27:45.423329928 +0530
+Modify: 2016-06-03 21:27:44.399329925 +0530
+Change: 2016-06-03 21:27:44.499329925 +0530
+ Birth: -
+  File: ‘file3.txt’
+  Size: 116       	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369696    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:28:02.539329989 +0530
+Modify: 2016-06-03 21:28:01.523329985 +0530
+Change: 2016-06-03 21:28:01.647329986 +0530
+ Birth: -
+  File: ‘file4.txt’
+  Size: 58        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369703    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:28:16.799330039 +0530
+Modify: 2016-06-03 21:28:15.783330035 +0530
+Change: 2016-06-03 21:28:15.899330036 +0530
+ Birth: -
+  File: ‘file5.txt’
+  Size: 137       	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369856    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:28:37.355330111 +0530
+Modify: 2016-06-03 21:28:36.343330108 +0530
+Change: 2016-06-03 21:28:36.403330108 +0530
+ Birth: -
+  File: ‘file1.txt’
+  Size: 98        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369691    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:27:29.611329873 +0530
+Modify: 2016-06-03 21:27:28.587329869 +0530
+Change: 2016-06-03 21:27:28.671329869 +0530
+ Birth: -
+  File: ‘/home/biggiep/SAMPLEFILES/Fib.py’
+  Size: 216       	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 12861238    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:11:43.571326541 +0530
+Modify: 2016-04-20 10:07:28.731169000 +0530
+Change: 2016-06-03 21:11:43.423326540 +0530
+ Birth: -
+  File: ‘copyfile1.txt’
+  Size: 216       	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369702    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:29:32.315330305 +0530
+Modify: 2016-06-03 21:29:32.315330305 +0530
+Change: 2016-06-03 21:29:32.315330305 +0530
+ Birth: -
+  File: ‘copyfile1.txt’
+  Size: 216       	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369702    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:29:33.447330309 +0530
+Modify: 2016-06-03 21:29:32.315330305 +0530
+Change: 2016-06-03 21:29:32.315330305 +0530
+ Birth: -
+  File: ‘logfile.txt’
+  Size: 9321      	Blocks: 24         IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 13369669    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ biggiep)   Gid: ( 1000/ biggiep)
+Access: 2016-06-03 21:29:53.771330380 +0530
+Modify: 2016-06-03 21:29:52.755330377 +0530
+Change: 2016-06-03 21:29:52.755330377 +0530
+ Birth: -

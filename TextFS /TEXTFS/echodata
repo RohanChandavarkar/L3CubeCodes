@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if ! [ -e $1 ]; then
+	echo "Please enter correct name as file whose contents are to be displayed doesn't exist"
+else
+	cat $1
+	echo 
+	echo "--------------------------------------------------------"
+	stat $1 >> logfile.txt
+fi
